@@ -17,6 +17,7 @@ or use a tool like [Terraform](https://www.terraform.io).
 |----------------------------------|-----------------------------------------------------------------------------|
 | `creds`                          | ***Required*** Service Account JSON Key (not base64 encoded)                |
 | `instance`                       | ***Required*** Cloud SQL connection name                                    |
+| `ip`                             | Listen on ip, default 0.0.0.0                                               |
 | `port`                           | Listen on port, default 5432                                                |
 | `proxy_version`                  | Cloud SQL Proxy version, default 1.33.2                                     |
 
