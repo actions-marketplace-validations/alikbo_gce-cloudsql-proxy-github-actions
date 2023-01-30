@@ -1,4 +1,4 @@
-name: "Google Cloud SQL Proxy"
+name: "GCP CloudSQL Proxy"
 description: "Start Google CloudSQL Proxy"
 
 branding:
